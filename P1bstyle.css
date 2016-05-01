@@ -1,0 +1,63 @@
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.everything {
+	width: 1400px;
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+* {
+	font-family: 'Lato', sans-serif;
+}
+.row1 {
+	max-width: 1400px;
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	border-bottom-style: solid;
+}
+.row {
+	max-width: 1400px;
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+p {
+	text-align: center;
+}
+.logo {
+	padding-top: 3em;
+	padding-left: 0em;
+}
+.myName {
+	text-align: right;
+	font-size: 400%;
+}
+.subtitle {
+	text-align: right;
+	font-size: 150%;
+}
+.menu {
+	text-indent: 25px;
+}
+.app-pics {
+	border-radius: 50%;
+}
+
+h3 {
+	font-size: 250%;
+	text-align: center;
+}
